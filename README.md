@@ -1,7 +1,7 @@
 # PowerShell World Clock Widget
 
 A lightweight, borderless desktop clock widget written entirely in PowerShell using Windows Forms (WinForms). The application runs natively on Windows without requiring any third-party software, compiler, or heavy IDEs. It provides a clean, dark-mode heads-up display of UTC and Eastern Time, with a right-click context menu to dynamically toggle additional North American time zones.
-
+![App Screenshot](https://github.com/rdmershon/PowerShell-Clock-App/blob/main/ClockApp.png)
 ## Features
 
 * **Zero Dependencies:** Runs on built-in Windows PowerShell using native `.NET` WinForms assemblies.
